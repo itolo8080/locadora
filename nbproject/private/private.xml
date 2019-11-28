@@ -3,50 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirFilme.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Modelo/Categoria.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Modelo/Cliente.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Principal/Login.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/CategoriaDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarCategoria.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarDVD.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarFuncionario.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarDVD.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarCliente.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/ClienteDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/DVDDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarCategoria.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirCliente.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirFuncionario.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/AluguelDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarClassificacao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Locacao/ControleLocacao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/FuncionarioDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Modelo/Filme.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarCliente.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarFuncionario.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirDVD.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Locacao/ConsultaDevolucao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarClassificacao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarFilme.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarDVD.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/ConexaoDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/ExecuteSQL.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/ClassificacaoDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarFilme.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirCategoria.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Modelo/DVD.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarCategoria.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Modelo/Classificacao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarClassificacao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarFilmes.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Modelo/Aluguel.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarCliente.java</file>
             <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarFuncionario.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Locacao/EfetuarDevolucao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirClassificacao.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/DAO/FilmeDAO.java</file>
-            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Principal/Main.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarCategoria.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarCategoria.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirCategoria.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarDVD.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Cadastrar/CadastrarCategoria.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Consultar/ConsultarCliente.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Excluir/ExcluirDVD.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Visao/Alterar/AlterarClassificacao.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Locacao/ConsultaDevolucao.java</file>
+            <file>file:/C:/Users/rodri/Documents/NetBeansProjects/Pojeto-locadora/src/Principal/Menu.java</file>
         </group>
     </open-files>
 </project-private>
